@@ -1,0 +1,35 @@
+/* .wrapper {
+  margin        : 400px;
+  display       : flex;
+  flex-direction: column;
+}
+
+.fields {
+  width: 20%;
+  align-self: center;
+}
+
+.button-collection {
+  display        : flex;
+  flex-direction : column;
+  flex-wrap      : wrap;
+  justify-content: center;
+}
+
+.button {
+  width     : 40%;
+  height    : 100px;
+  align-self: center;
+}
+
+h3 {
+  align-self: center;
+}
+
+h1 {
+  text-align: center;
+} */
+
+body {
+  background-color: #F6F5F3;
+}

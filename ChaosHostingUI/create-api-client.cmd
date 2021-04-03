@@ -1,0 +1,1 @@
+nswag swagger2tsclient /input:https://localhost:5001/swagger/v1/swagger.json /output:./src/ChaosApiClient.ts /classname:ChaosApiClient
