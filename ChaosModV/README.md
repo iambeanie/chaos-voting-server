@@ -1,5 +1,7 @@
 # Chaos Mod V
 
+NOTE: This is a copy of the existing chaos mod V, changed slightly to accommodate the voting server.
+
 A replica of the chaos mods found on previous GTA games for GTA V.
 
 See the [GTA5-Mods mod page](https://www.gta5-mods.com/scripts/chaos-mod-v-beta) for more information and instructions on how to install it.
